@@ -4,7 +4,6 @@ import sys
 sys.path.insert(0, '/Belajar/UDEMY/Krish_Naik/Complete_Machine_Learning_NLP_Bootcamp/Section48_MLProject')
 # print(sys.path)
 from src.exception import CustomException
-
 from src.logger import logging
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
